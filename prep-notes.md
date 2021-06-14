@@ -56,3 +56,19 @@ But if you teach people that your time is expensive, important, and valuable, th
 - Ask your team why the problem is occurring
 - For each of the answers that you generated in Step 3, ask four further "whys" in succession. Each time, frame the question in response to the answer you've just recorded.
 - ![5 whys](https://www.mindtools.com/media/Diagrams/5_Whys_Figure_1_Single_Lane.jpg)
+
+### What the heck is the event loop anyway?
+[article link](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+- one thread, one call stack, one thing at a time
+- The event loop is the process between the call stack and the webapis
+- Blocking the event loop can make the browswer unable to render to the window. 
+
+
+
+### The super mario effect
+[article link](https://www.youtube.com/watch?v=mClJBTz9I6U)
+
+- If you don't seee faliure in a negative light, your more likely to succeed.
+- The trick to learning more is to have the right frame to the learning proccess.
+- The mario effect - Focus oh the princess and not the pits, to stick to the task and learn more. 
