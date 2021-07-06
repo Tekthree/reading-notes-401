@@ -22,4 +22,10 @@
   - Cost per GB of Virtual RAM
     * Most providers calculate the cost of CPU by determining the respective company’s cost per GB of virtual RAM,
 
+
+## Document the following Vocabulary Terms
+
+### Server Instances
+- 
+
 Info cited on https://www.cloudflare.com/ , https://aws.amazon.com/autoscaling/ , https://www.verizon.com/info/definitions/bandwidth/ , https://expedient.com/knowledgebase
