@@ -26,6 +26,21 @@
 ## Document the following Vocabulary Terms
 
 ### Server Instances
-- 
+- An Instance is a virtual machine which runs our workloads in the cloud. A node sever can be thought of as an instance.
 
-Info cited on https://www.cloudflare.com/ , https://aws.amazon.com/autoscaling/ , https://www.verizon.com/info/definitions/bandwidth/ , https://expedient.com/knowledgebase
+### Containers
+- A package of software that comes with all its code, dependencies and scripts detailing how to run it. I can normally run reliably on any computer.
+
+### Cloud Services
+- Remote computing power for helping business scale their products. 
+
+### Cloud Architecture
+- Cloud resources leveraged by business for solving problems. The Architecture lays out the all components and the relationship between them. 
+
+### AWS
+- Amazon Web Services, cloud computing services
+
+### EC2/Beanstalk vs Heroku
+- One big difference is that Heroku’s pricing takes exponential price jumps as one adds common additional features, e.g., auto-scaling, where-as AWS pricing is fairly linear. On the other hand, Heroku is generally simpler to get up and running as AWS has a fairly steep initial learning curve.
+
+Info cited on https://www.cloudflare.com/ , https://aws.amazon.com/autoscaling/ , https://www.verizon.com/info/definitions/bandwidth/ , https://expedient.com/knowledgebase , https://codeburst.io/heroku-v-s-aws-elastic-beanstalk-1cc6f12ca3c7
